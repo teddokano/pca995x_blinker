@@ -1,0 +1,6 @@
+/Users/tedd/dev/mcuxpresso/pca995x_blinker/_r01lib_frdm_mcxa156/drivers/fsl_clock.h:679:20:CLOCK_EnableClock	32	static
+/Users/tedd/dev/mcuxpresso/pca995x_blinker/_r01lib_frdm_mcxa156/drivers/fsl_reset.h:240:20:RESET_ReleasePeripheralReset	16	static
+/Users/tedd/dev/mcuxpresso/pca995x_blinker/_r01lib_frdm_mcxa156/drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+/Users/tedd/dev/mcuxpresso/pca995x_blinker/_r01lib_frdm_mcxa156/drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:29:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:147:6:BOARD_InitPins	16	static

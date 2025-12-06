@@ -1,0 +1,12 @@
+../source/main.cpp:282:8:double triangle_w_space(double)	8	static
+../source/main.cpp:77:6:void indivisual(int)	48	static
+../source/main.cpp:101:6:void random2(int)	232	static
+../source/main.cpp:122:6:void random(int)	40	static
+../source/main.cpp:135:6:void blink(int)	48	static
+../source/main.cpp:146:6:void dim()	40	static
+../source/main.cpp:157:6:void green_and_red2(int)	48	static
+../source/main.cpp:204:6:void green_and_red(int)	48	static
+../source/main.cpp:238:6:void colors_and_while(int, double (*)(double))	120	static
+../source/main.cpp:276:6:void all(double)	16	static
+../source/main.cpp:306:1:cpp)	16	static
+../source/main.cpp:58:5:int main()	24	static

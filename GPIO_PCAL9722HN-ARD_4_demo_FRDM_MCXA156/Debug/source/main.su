@@ -1,0 +1,10 @@
+../source/main.cpp:124:6:void button_callback()	0	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:288:7:) [with _Res = void; _Functor = void (*)(); _ArgTypes = {}]	0	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:267:7:), _Functor>::_M_manager(std::_Any_data&, const std::_Any_data&, std::_Manager_operation) [with _Res = void; _Functor = void (*)(); _ArgTypes = {}]	0	static
+../source/main.cpp:90:6:void disp7seg(char)	16	static
+../source/main.cpp:77:6:void message(const char*, float, float)	16	static
+../source/main.cpp:110:5:int button_display(uint8_t)	8	static
+../source/main.cpp:129:6:void auto_message(int)	48	static
+../source/main.cpp:147:6:void ticker_callback()	16	static
+../source/main.cpp:167:1:cpp)	16	static
+../source/main.cpp:26:5:int main()	72	dynamic
